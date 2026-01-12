@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkdocusaur_gh=globalThis.webpackChunkdocusaur_gh||[]).push([[3445],{7927:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/Docu-Test/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
